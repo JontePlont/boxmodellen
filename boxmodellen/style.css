@@ -1,0 +1,35 @@
+body{
+	background-color: indianred;
+	font-family: verdana;
+}
+h1{
+	color:white;
+	font-size: 45px;
+}
+.box{
+	height: 500px;
+	width: 500px;
+	border: 3px solid black;
+	
+	background-color: white;
+}
+.ett{
+	color:white;
+	background-color: green;
+	width: 480px;
+	height: 227.5px;
+	margin:5px;
+	padding-left: 10px;
+	padding-top: 15px;
+	
+}
+.två{
+	color:white;
+	background-color: red;
+	width: 480px;
+	height: 227.5px;
+	padding-left: 10px;
+	margin: 5px;
+	padding-top: 15px;
+	
+}
